@@ -21,3 +21,10 @@ while True:
 
 
 
+script=file("list.py")
+
+while True:
+	line=script.readline()
+	if (len(line)==0):
+		break
+	print line

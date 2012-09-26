@@ -14,3 +14,5 @@ print stu["age"]
 
 for key,value in stu.items():
 	print "key is ",key," value is ",value
+
+	
